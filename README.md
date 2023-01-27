@@ -5,6 +5,11 @@
 <b> FAQ Component </b>
 
  <a href="https://fabioaes.github.io/faq_component/">View Demo</a>
+ 
+ <a href="#">
+    <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge" alt="Status Completed">
+  </a>
+ 
  </div>
  
   <br />
